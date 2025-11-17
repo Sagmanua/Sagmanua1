@@ -7,6 +7,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+I’m a **Multiplatform Application Development** student based in Valencia, Spain, passionate about building things that work—and work well. I love diving into real-world tech challenges and turning ideas into code using **Java, Python, SQL, HTML, and CSS**.
+
+I enjoy exploring new technologies, solving tricky problems, and learning through hands-on projects. Collaboration is my jam—I thrive in team environments, sharing knowledge, and growing together.
+
+Here on GitHub, you’ll find my experiments, projects, and contributions—a snapshot of my coding journey as I level up every day.  
+
+💡 **Check out my repositories** to see what I’m building next!
 
 ## My Statistica 
 <p align="center">
