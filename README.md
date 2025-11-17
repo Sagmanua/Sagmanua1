@@ -14,9 +14,9 @@ I enjoy exploring new technologies, solving tricky problems, and learning throug
 Here on GitHub, you’ll find my experiments, projects, and contributions—a snapshot of my coding journey as I level up every day.  
 
 💡 **Check out my repositories** to see what I’m building next!
-[Base de datos sql,json](hhttps://github.com/Sagmanua/Bases-de-datos-)
-[Lenguajes de marcas Html,CSS,JS ]((https://github.com/Sagmanua/lenguajes-de-marcas-DAM-2025-2026-))
-[Python](https://github.com/Sagmanua/Programacion-de-DAM-2025-2026-)
+[Base de datos sql,json](hhttps://github.com/Sagmanua/Bases-de-datos-)  
+[Lenguajes de marcas Html,CSS,JS ]((https://github.com/Sagmanua/lenguajes-de-marcas-DAM-2025-2026-))  
+[Python](https://github.com/Sagmanua/Programacion-de-DAM-2025-2026-)  
 
 
 
