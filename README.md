@@ -42,6 +42,7 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 
 </p>
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight" height="150"/>
 
 
 ## Contact
