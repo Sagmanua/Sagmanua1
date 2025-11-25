@@ -37,6 +37,13 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+<<<<<<< HEAD
+=======
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagmanua&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight" height="150"/>
+</p>
+>>>>>>> 2d52d8446ea6fad0f9f74bc19d909389994f7540
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-Me-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:sidorenko.bogdan.05@gmail.com)
