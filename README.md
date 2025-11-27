@@ -42,9 +42,8 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 </p>
 
 
-<img src="https://github-readme-stats-ivory-two-19.vercel.app/api?username=Sagmanua&show_icons=true&hide_border=true&theme=gruvbox" />
-
-  <img src="https://github-readme-stats-ivory-two-19.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=gruvbox" height="150"/>
+<img src="https://github-readme-stats-ivory-two-19.vercel.app/api?username=Sagmanua&show_icons=true&hide_border=true&theme=gruvbox" />  
+<img src="https://github-readme-stats-ivory-two-19.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=gruvbox" height="150"/>  
 
 
 
